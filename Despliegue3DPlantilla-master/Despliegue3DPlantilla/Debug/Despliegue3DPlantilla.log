@@ -1,2 +1,4 @@
 ﻿  Main.cpp
-LINK : fatal error LNK1168: cannot open C:\Users\Jesus\Documents\UCV\Despliegue3DPlantilla\Debug\Despliegue3DPlantilla.exe for writing
+c:\users\alchenthecat\documents\semestre vi\computacion grafica\project ii\despliegue3dplantilla-master\src\main.cpp(31): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+c:\users\alchenthecat\documents\semestre vi\computacion grafica\project ii\despliegue3dplantilla-master\src\main.cpp(36): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+  Despliegue3DPlantilla.vcxproj -> C:\Users\AlchenTheCat\Documents\Semestre VI\Computacion Grafica\Project II\Despliegue3DPlantilla-master\Debug\Despliegue3DPlantilla.exe

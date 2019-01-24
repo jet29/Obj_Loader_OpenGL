@@ -1,5 +1,7 @@
 #define GLFW_INCLUDE_GLU
 #include "../headers/glfw3.h"
+#include "../headers/glm/gtc/quaternion.hpp"
+
 #include <vector>
 
 void updateUserInterface();

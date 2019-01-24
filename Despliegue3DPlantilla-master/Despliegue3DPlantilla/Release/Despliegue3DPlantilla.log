@@ -1,8 +1,8 @@
-﻿  UserInterface.cpp
-  Generating code
-  1 of 314 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Despliegue3DPlantilla.vcxproj -> C:\Users\Jesus\Documents\UCV\Despliegue3DPlantilla\Release\Despliegue3DPlantilla.exe
-  Despliegue3DPlantilla.vcxproj -> C:\Users\Jesus\Documents\UCV\Despliegue3DPlantilla\Release\Despliegue3DPlantilla.pdb (Full PDB)
+﻿  Main.cpp
+  Model.cpp
+  SOff.cpp
+  UserInterface.cpp
+  Generando código
+  Generación de código finalizada
+  All 328 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Despliegue3DPlantilla.vcxproj -> C:\Users\AlchenTheCat\Documents\Semestre VI\Computacion Grafica\Project II\Despliegue3DPlantilla-master\Release\Despliegue3DPlantilla.exe
